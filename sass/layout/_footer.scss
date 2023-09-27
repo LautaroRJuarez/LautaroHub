@@ -1,0 +1,37 @@
+footer{
+    text-align: center;
+    padding: 20px 0;
+    background-color: #e0c0ff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.contacto{
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+}
+.redes{
+    display: flex;
+    justify-content: space-around;
+    color: black;
+}
+.logo {
+    color: black;
+    font-style: oblique;
+}
+
+#redes{
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+#redes li{
+    list-style: none;
+}
+
+#redes li a{
+    color: black;
+    text-decoration: none;
+}
+ 
